@@ -1,5 +1,10 @@
-body {
+@font-face {
     font-family: 'Chelsea Market', cursive;
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto:wght@100;900&display=swap');
+}
+
+body {
     font-family: 'Roboto', sans-serif;
     background-color: white;
 }
@@ -47,14 +52,14 @@ header {
 
 footer {
     background-image: url(banner-2.jpg);
-    height: 500px;
     background-size: cover;
     background-position: 50%;
+    padding-top: 500px;
 }
 
 .copyright {
     color: white;
-    background-color: gray;
+    background-color: #2a2e31;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
