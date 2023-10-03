@@ -1,0 +1,62 @@
+body {
+    font-family: 'Chelsea Market', cursive;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+header {
+    background-image: url(banner-1.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.bouton1 {
+    padding: 15px;
+    color:black;
+    background-color: white;
+    border-radius: 50px;
+    width: 150px;
+    margin: auto;
+}
+
+.underground {
+    color: white;
+    margin: auto;
+    padding: 150px;
+    width: 500px;
+    text-align: center;
+}
+
+.rencontre{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 150px;
+    width: 500px;
+    text-align: center;
+}
+
+.bouton2 {
+    padding: 15px;
+    color:white;
+    background-color: black;
+    border-radius: 50px;
+    width: 150px;
+    margin: auto;
+}
+
+footer {
+    background-image: url(banner-2.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.copyright {
+    color: white;
+    background-color: gray;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 0;
+}
